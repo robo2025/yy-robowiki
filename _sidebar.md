@@ -12,4 +12,4 @@
   * [案例说明](docs/md/alsm.md)
   * [培训课程](docs/md/pxkc.md)
 
-* [版权说明](awesome.md)
+* [版权说明](license.md)
