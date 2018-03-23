@@ -16,6 +16,6 @@
 
 7. 培训陪产，主要包括对客户的机器人编程操作培训，通过陪产，了解打磨系统运行的绝密性、可靠性，随机处理发生的问题，向客户提供技术文件，设备目录，电器说明书，维修手册等资料文件。
 
-<video controls preload="none" poster="../../_media/hh/3.jpg">
+<video controls preload="none" poster="../../_media/video_cover/03.png">
     <source id="mp4" src="https://imgcdn.robo2025.com/wiki/videos/wiki_03.mp4" type="video/mp4">
 </video>

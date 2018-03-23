@@ -12,6 +12,6 @@
 
 6. 只需定位抓起点和摆放点，教示方法简单易懂。
 
-<video controls preload="none" poster="../../_media/hh/3.jpg">
+<video controls preload="none" poster="../../_media/video_cover/02.png">
     <source id="mp4" src="https://imgcdn.robo2025.com/wiki/videos/wiki_02.mp4" type="video/mp4">
 </video>
